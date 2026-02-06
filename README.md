@@ -17,7 +17,8 @@ A modern, AI-powered tarot reading application that combines the ancient wisdom 
 
 ### System Architecture Diagram
 
-![System Architecture](data/readme/system%20archietecture%201%20.%20png)
+![System Architecture](data/readme/system_architecture.png)
+
 
 ## 📋 Prerequisites
 
