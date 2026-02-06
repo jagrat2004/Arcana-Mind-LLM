@@ -370,24 +370,6 @@ Edit the `prompt_analysis` template in `app.py` to change:
 2. **Caching**: Store common card interpretations
 3. **Parallel spreads**: Run multiple readings simultaneously
 
-## 🎓 Learning Resources
-
-### About Tarot
-- [78 Degrees of Wisdom](https://www.rachelsollman.com/) - Rachel Pollack
-- [The Tarot Primers](https://www.aeclectic.net/) - Aeclectic Tarot
-
-### About LangChain
-- [LangChain Documentation](https://python.langchain.com/)
-- [LCEL Overview](https://python.langchain.com/docs/expression_language/)
-
-### About Ollama
-- [Ollama GitHub](https://github.com/ollama/ollama)
-- [Available Models](https://ollama.ai/library)
-
-### About Streamlit
-- [Streamlit Documentation](https://docs.streamlit.io/)
-- [Streamlit Examples](https://streamlit.io/gallery)
-
 ## 🤝 Contributing
 
 To enhance this project:
